@@ -102,4 +102,4 @@ Sentinel includes an Attention Analysis Engine. It visualizes why a prediction w
 
 If you use this work, please cite:
 
-Aditya Sharma, "Real-World Event Prediction via Multimodal Transformers", 2025.
+Tanush Lukha, "Real-World Event Prediction via Multimodal Transformers", 2026.
